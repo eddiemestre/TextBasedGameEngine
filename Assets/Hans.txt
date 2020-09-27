@@ -1,0 +1,170 @@
+Hans/Industro
+
+
+(picture of a robot)
+
+
+By Eddie Mestre (2020)
+Release 0.2b
+
+*
+Coordinates: (-1,-2)
+Neighbor Coordinates: (0,-2)
+Location Name: Prisoner Entrance
+1:
+2:
+
+Coordinates: (-1,2)
+Neighbor Coordinates: (0,-2)
+Location Name: Slaughter Room
+1:
+2:
+
+Coordinates: (-1,3)
+Neighbor Coordinates: (0,3) (-1,4)
+Location Name: South Conveyer Belt
+1:
+2:
+
+Coordinates: (-1,4)
+Neighbor Coordinates: (0,4) (-1,3)
+Location Name: Confiscated Valuables Room
+1:
+2:
+
+Coordinates: (0,-2)
+Neighbor Coordinates: (0,-1)
+Location Name: South Western Corner
+1:
+2:
+
+Coordinates: (0,-1)
+Neighbor Coordinates: (0,-2) (0,0) (1,-1)
+Location Name: South Western Triway
+1: You come to a fork in the road. Paths are NORTH and EAST.
+
+Coordinates: (0,0)
+Neighbor Coordinates: (0,-1) (0,1)
+Location Name: West Jail
+1: You boot up in the middle of a noisy factory. Odd that you booted down without remembering. Where the hell are you? You are surrounded by other robots who all look depressed or off. To the North lies a giant steam engine and a dead end. Looking South, you see a room full of downtrodden robots. You aren't sure what lies to your East and West. What would you like to do?
+2: You're back to where you booted up. You hate this spot the most.
+
+Coordinates: (0,1)
+Neighbor Coordinates: (0,0) (0,2)
+Location Name: East Jail
+1: There are dozens of robots that seem to be on but aren't moving or very responsive. You try talking to one. It doesn't look at you but says these words: \"So we return from where we came from. Metal and electricity. That's all. That's all.\" The other robots look equally as miserable. You can go East or West. What would you like to do?
+2: There is a new addition to the crowd. A massive robotic arm approximately 18.67 meters tall. You notice the other robots have congregated around this large robot and that it's singing a song, albeit very slowly. "Daisy... Daisy... give me your answer do... I'm half crazy.... all for the love... of you." Foreshadowing?
+3. The robots are all quiet now. 
+
+Coordinates: (0,2)
+Neighbor Coordinates: (0,1) (0,3) (-1,2) (1,2)
+Location Name: South Eastern Crossroads
+1: You come to a crossroads. You can go North, South, East, or West. What would you like to do?
+2: A crossroads.
+
+Coordinates: (0,3)
+Neighbor Coordinates: (0,2) (0,4)
+Location Name: North Conveyer Belt
+1:
+2:
+
+Coordinates: (0,4)
+Neighbor Coordinates: (0,3) (-1,4)
+Location Name: South Eastern Corner
+1:
+2:
+
+Coordinates: (1,-1)
+Neighbor Coordinates: (1,0) (0,-1)
+Location Name: East Big Bertha
+1:
+2:
+
+Coordinates: (1,0)
+Neighbor Coordinates: (1,-1) (1,1)
+Location Name: South Assembly Line
+1:
+2:
+
+Coordinates: (1,1)
+Neighbor Coordinates: (1,0) (2,1) (1,2)
+Location Name: Central Triway
+1:
+2:
+
+Coordinates: (1,2)
+Neighbor Coordinates: (1,1) (2,2) (0,2) (1,3)
+Location Name: South of Chamber
+1:
+2:
+
+Coordinates: (1,3)
+Neighbor Coordinates: (1,2)
+Location Name: Chamber Operation Room
+1:
+2:
+
+Coordinates: (2,1)
+Neighbor Coordinates: (3,1) (1,1)
+Location Name: North/South Central Cooridor
+1:
+2:
+
+Coordinates: (2,2)
+Neighbor Coordinates: (1,2)
+Location Name: The Chamber
+1:
+2:
+
+Coordinates: (3,-1)
+Neighbor Coordinates: (3,0)
+Location Name: Guard's Room
+1:
+2:
+
+Coordinates: (3,0)
+Neighbor Coordinates: (3,-1) (3,1)
+Location Name: North Assembly Line
+1:
+2:
+
+Coordinates: (3,1)
+Neighbor Coordinates: (3,0) (4,1) (3,2) (2,1)
+Location Name: Central Crossroads
+1:
+2:
+
+Coordinates: (3,2)
+Neighbor Coordinates: (3,1)
+Location Name: The Workshop
+1:
+2:
+
+Coordinates: (4,-1)
+Neighbor Coordinates: (5,-1) (4,0)
+Location Name: Lobby
+1:
+2:
+
+Coordinates: (4,0)
+Neighbor Coordinates: (4,-1) (4,1)
+Location Name: South of Shop
+1:
+2:
+
+Coordinates: (4,1)
+Neighbor Coordinates: (4,0) (3,1) (4,2)
+Location Name: Northern Triway
+1:
+2:
+
+Coordinates: (4,2)
+Neighbor Coordinates: (4,1)
+Location Name: Workshop Guard Room
+1: Learn about robots reliving the first day of work? or something. 
+2:
+
+Coordinates: **(5,-1)
+Neighbor Coordinates: (4,-1)
+Location Name: Prison Entrance
+1:

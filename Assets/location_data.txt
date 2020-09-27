@@ -1,0 +1,27 @@
+Hans/Industro
+
+(picture of a robot)
+
+By Eddie Mestre (2020)
+Release 1.0
+
+#
+
+Coordinates: *(0,0)
+Neighbor Coordinates: (0,1)
+Location Name: Room (0,0)
+1: This is the first text that should be written when visiting a room
+2: This is the second text that should be pooped when had shit
+3: This is the third.
+
+Coordinates: (0,1)
+Neighbor Coordinates: (0,0) (0,2)
+Location Name: Room (0,1)
+1: Hey it's the first text!
+2: Yo it's the second
+3: Hi hi hi hi hi hi hi
+
+Coordinates: **(0,2)
+Neighbor Coordinates: (0,1)
+Location Name: Room (0,2)
+1: Congrats you won!

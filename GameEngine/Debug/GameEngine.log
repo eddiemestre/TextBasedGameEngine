@@ -1,0 +1,24 @@
+﻿  FileReader.cpp
+  GameEngine.cpp
+c:\users\egmes\onedrive - personal\onedrive\projects\code\gameengine\gameengine\gameengine\gameengine.cpp(90): warning C4018: '<': signed/unsigned mismatch
+c:\users\egmes\onedrive - personal\onedrive\projects\code\gameengine\gameengine\gameengine\gameengine.cpp(154): warning C4018: '<': signed/unsigned mismatch
+c:\users\egmes\onedrive - personal\onedrive\projects\code\gameengine\gameengine\gameengine\gameengine.cpp(175): warning C4018: '<': signed/unsigned mismatch
+c:\users\egmes\onedrive - personal\onedrive\projects\code\gameengine\gameengine\gameengine\gameengine.cpp(193): warning C4018: '<': signed/unsigned mismatch
+c:\users\egmes\onedrive - personal\onedrive\projects\code\gameengine\gameengine\gameengine\gameengine.cpp(211): warning C4018: '<': signed/unsigned mismatch
+c:\users\egmes\onedrive - personal\onedrive\projects\code\gameengine\gameengine\gameengine\gameengine.cpp(230): warning C4018: '<': signed/unsigned mismatch
+c:\users\egmes\onedrive - personal\onedrive\projects\code\gameengine\gameengine\gameengine\gameengine.cpp(273): warning C4018: '<': signed/unsigned mismatch
+c:\users\egmes\onedrive - personal\onedrive\projects\code\gameengine\gameengine\gameengine\gameengine.cpp(290): warning C4018: '<': signed/unsigned mismatch
+c:\users\egmes\onedrive - personal\onedrive\projects\code\gameengine\gameengine\gameengine\gameengine.cpp(307): warning C4018: '<': signed/unsigned mismatch
+c:\users\egmes\onedrive - personal\onedrive\projects\code\gameengine\gameengine\gameengine\gameengine.cpp(458): warning C4018: '<': signed/unsigned mismatch
+c:\users\egmes\onedrive - personal\onedrive\projects\code\gameengine\gameengine\gameengine\gameengine.cpp(460): warning C4018: '<': signed/unsigned mismatch
+c:\users\egmes\onedrive - personal\onedrive\projects\code\gameengine\gameengine\gameengine\gameengine.cpp(535): warning C4018: '<': signed/unsigned mismatch
+c:\users\egmes\onedrive - personal\onedrive\projects\code\gameengine\gameengine\gameengine\gameengine.cpp(770): warning C4018: '<': signed/unsigned mismatch
+c:\users\egmes\onedrive - personal\onedrive\projects\code\gameengine\gameengine\gameengine\gameengine.cpp(784): warning C4018: '<': signed/unsigned mismatch
+c:\users\egmes\onedrive - personal\onedrive\projects\code\gameengine\gameengine\gameengine\gameengine.cpp(785): warning C4018: '<': signed/unsigned mismatch
+c:\users\egmes\onedrive - personal\onedrive\projects\code\gameengine\gameengine\gameengine\gameengine.cpp(786): warning C4018: '<': signed/unsigned mismatch
+c:\users\egmes\onedrive - personal\onedrive\projects\code\gameengine\gameengine\gameengine\gameengine.cpp(797): warning C4018: '<': signed/unsigned mismatch
+c:\users\egmes\onedrive - personal\onedrive\projects\code\gameengine\gameengine\gameengine\gameengine.cpp(807): warning C4018: '<': signed/unsigned mismatch
+  Location.cpp
+  Main.cpp
+  Generating Code...
+  GameEngine.vcxproj -> C:\Users\egmes\OneDrive - Personal\OneDrive\Projects\Code\GameEngine\GameEngine\Debug\GameEngine.exe
